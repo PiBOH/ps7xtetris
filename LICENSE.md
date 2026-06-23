@@ -1,1 +1,3 @@
 Io non mi assumo nessuna responsabilità in quanto a crash, bug, errori del codice, contenuto del codice, eccetera in quanto il contenuto di questo repository è stato preso da questo file https://github.com/PowerShell/PowerShell/releases/download/v7.6.3/PowerShell-7.6.3-win-x86.zip il quale era sotto licenza [MIT](https://github.com/PowerShell/PowerShell/blob/master/LICENSE.txt).
+***
+per ulteriori dettagli leggi qui https://github.com/PiBOH/ps7xtetris/blob/main/LICENSE_ORIGINALE%20DI%20POWESHELL7.md
